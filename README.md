@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Covid-19 Tracker
 
-[![Detail-Country-Info.png](https://i.postimg.cc/Jzv7ytJJ/Detail-Country-Info.png)](https://postimg.cc/yDhCt1LY)
+[![Detail-Country-Info.png](https://i.postimg.cc/Jzv7ytJJ/Detail-Country-Info.png)](https://postimg.cc/yDhCt1LY)[![Recent-Data.png](https://i.postimg.cc/GtxJ2Z58/Recent-Data.png)](https://postimg.cc/T5hWNHGf)
 
 > This is a ReadMe template to help save you time and effort.
 
