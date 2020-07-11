@@ -43,7 +43,7 @@ new, recovered, critical) , deaths, and tests done.
 ## How To Use
 
 #### Installation
-iiOS & macOS App
+iOS & macOS App
 * Build from source code
 * Clone/Download the repo.
 * Open CoronaStats.xcodeproj in Xcode.
