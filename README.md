@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Covid-19 Tracker
 
 [![WholePic.png](https://i.postimg.cc/wBWDSXsJ/WholePic.png)](https://postimg.cc/WDkDZJ8b)
@@ -25,6 +24,7 @@ A COVID-19 Statistics tracking application built with Swift 5 which fetches ever
 ## Features
 
 * Live data: Shows the most recent data, and updates every 15 minutes.
+[![Recent-Data.png](https://i.postimg.cc/GtxJ2Z58/Recent-Data.png)](https://postimg.cc/T5hWNHGf)
 * Distribution map with annotations.
 * Search for countries to get detail information about a specific country. Detail information include the number of confirmed cases (active,
 new, recovered, critical) , deaths, and tests done.
@@ -45,11 +45,11 @@ new, recovered, critical) , deaths, and tests done.
 
 #### Installation
 iiOS & macOS App
-Build from source code
-Clone/Download the repo.
-Open CoronaStats.xcodeproj in Xcode.
-Choose the right target (iOS or macOS).
-Build & run!
+* Build from source code
+* Clone/Download the repo.
+* Open CoronaStats.xcodeproj in Xcode.
+* Choose the right target (iOS or macOS).
+* Build & run!
 
 =======
 Covid-19 Tracker App - iOS
